@@ -1,0 +1,8 @@
+-r base.txt
+
+# Development Tools
+pytest>=8.3.0
+pytest-django>=4.9.0
+flake8>=7.1.0
+black>=24.10.0
+ipython>=8.31.0

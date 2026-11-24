@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Takhlees Business API
+  version: 1.0.0
+  description: REST API for Takhlees Business (UAE) and Takhlees Career Academy (India)
+paths: {}
+components: {}
